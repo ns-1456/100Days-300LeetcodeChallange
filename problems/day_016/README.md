@@ -1,8 +1,8 @@
-# Day 001
+# Day 016
 
-Topic: Arrays & Hashing
+Topic: Backtracking I
 
-Problems: 1, 20, 217
+Problems: 78, 39, 46
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

@@ -1,8 +1,8 @@
-# Day 001
+# Day 023
 
-Topic: Arrays & Hashing
+Topic: DP Strings
 
-Problems: 1, 20, 217
+Problems: 1143, 72, 97
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

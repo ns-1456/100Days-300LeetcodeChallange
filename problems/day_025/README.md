@@ -1,8 +1,8 @@
-# Day 001
+# Day 025
 
-Topic: Arrays & Hashing
+Topic: Greedy II
 
-Problems: 1, 20, 217
+Problems: 763, 406, 621
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

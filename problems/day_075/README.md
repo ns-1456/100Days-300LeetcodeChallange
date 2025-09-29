@@ -1,8 +1,8 @@
-# Day 001
+# Day 075
 
-Topic: Arrays & Hashing
+Topic: Binary Search
 
-Problems: 1, 20, 217
+Problems: 704, 34, 74
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

@@ -1,8 +1,8 @@
-# Day 001
+# Day 006
 
-Topic: Arrays & Hashing
+Topic: Trees I
 
-Problems: 1, 20, 217
+Problems: 104, 100, 144
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

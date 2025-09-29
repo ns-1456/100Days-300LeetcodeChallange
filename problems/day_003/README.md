@@ -1,8 +1,8 @@
-# Day 001
+# Day 003
 
-Topic: Arrays & Hashing
+Topic: Stack & Monotonic Stack
 
-Problems: 1, 20, 217
+Problems: 155, 739, 853
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

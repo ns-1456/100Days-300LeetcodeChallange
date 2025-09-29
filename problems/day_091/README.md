@@ -1,8 +1,8 @@
-# Day 001
+# Day 091
 
-Topic: Arrays & Hashing
+Topic: Arrays
 
-Problems: 1, 20, 217
+Problems: 242, 49, 347
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

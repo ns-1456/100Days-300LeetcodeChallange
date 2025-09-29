@@ -1,8 +1,8 @@
-# Day 001
+# Day 048
 
-Topic: Arrays & Hashing
+Topic: Math/Bit
 
-Problems: 1, 20, 217
+Problems: 191, 371, 540
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

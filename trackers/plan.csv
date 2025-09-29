@@ -1,0 +1,101 @@
+day,topic,problems
+001,Arrays & Hashing,1|20|217
+002,Two Pointers & Sliding Window,125|121|3
+003,Stack & Monotonic Stack,155|739|853
+004,Binary Search,704|74|34
+005,Linked List,206|141|21
+006,Trees I,104|100|144
+007,Trees II,145|94|110
+008,Tries,208|211|212
+009,Graphs BFS,200|994|1926
+010,Graphs DFS,130|133|417
+011,Graphs Topo,207|210|802
+012,Union-Find,547|323|261
+013,Intervals I,56|57|252
+014,Intervals II,435|253|452
+015,Heaps/PQ,215|973|347
+016,Backtracking I,78|39|46
+017,Backtracking II,90|131|40
+018,DP 1D I,198|322|70
+019,DP 1D II,152|300|53
+020,DP 2D Paths,62|63|64
+021,DP 2D Grids,221|62|5
+022,DP Partitions,416|494|518
+023,DP Strings,1143|72|97
+024,Greedy I,55|45|134
+025,Greedy II,763|406|621
+026,Math & Bit I,191|338|190
+027,Math & Bit II,371|268|231
+028,Design I,146|155|232
+029,Design II,208|359|380
+030,Misc Review,1|2|3
+031,Arrays & Hashing,242|49|347
+032,Two Pointers,167|125|11
+033,Sliding Window,424|76|567
+034,Stack,20|739|496
+035,Binary Search,875|162|4
+036,Linked List,234|19|143
+037,Trees,199|230|124
+038,Tries,720|139|648
+039,Graphs,127|417|841
+040,Topo/Union-Find,684|261|305
+041,Intervals,57|435|986
+042,Heaps,502|358|621
+043,Backtracking,39|46|79
+044,DP 1D,139|198|213
+045,DP 2D,62|64|221
+046,DP Strings,516|131|72
+047,Greedy,253|56|406
+048,Math/Bit,191|371|540
+049,Design,155|232|146
+050,Review,1|20|206
+051,Arrays,1|36|238
+052,Two Pointers,15|18|26
+053,Sliding Window,3|209|992
+054,Stack,84|316|32
+055,Binary Search,33|153|1011
+056,Linked List,707|876|86
+057,Trees,105|124|173
+058,Tries,421|14|1707
+059,Graphs,200|417|463
+060,Union-Find,547|684|1202
+061,Intervals,56|435|986
+062,Heaps,1046|1642|215
+063,Backtracking,40|77|216
+064,DP 1D,256|300|213
+065,DP 2D,62|97|72
+066,DP Strings,583|72|97
+067,Greedy,45|55|121
+068,Math/Bit,338|1720|191
+069,Design,155|146|380
+070,Review,1|125|217
+071,Arrays,347|217|1
+072,Two Pointers,125|11|167
+073,Sliding Window,76|567|3
+074,Stack,739|496|20
+075,Binary Search,704|34|74
+076,Linked List,21|141|206
+077,Trees,102|144|145
+078,Tries,208|212|211
+079,Graphs,130|133|200
+080,Union-Find,547|305|323
+081,Intervals,56|57|252
+082,Heaps,973|347|215
+083,Backtracking,39|40|90
+084,DP 1D,198|139|322
+085,DP 2D,62|64|221
+086,DP Strings,1143|72|97
+087,Greedy,55|45|134
+088,Math/Bit,191|371|268
+089,Design,155|232|146
+090,Review,1|20|206
+091,Arrays,242|49|347
+092,Two Pointers,167|125|11
+093,Sliding Window,424|76|567
+094,Stack,20|739|496
+095,Binary Search,875|162|4
+096,Linked List,234|19|143
+097,Trees,199|230|124
+098,Tries,720|139|648
+099,Graphs,127|417|841
+100,Review,1|125|217

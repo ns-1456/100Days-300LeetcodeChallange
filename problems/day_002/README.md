@@ -1,8 +1,8 @@
-# Day 001
+# Day 002
 
-Topic: Arrays & Hashing
+Topic: Two Pointers & Sliding Window
 
-Problems: 1, 20, 217
+Problems: 125, 121, 3
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

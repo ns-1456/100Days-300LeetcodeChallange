@@ -1,8 +1,8 @@
-# Day 001
+# Day 062
 
-Topic: Arrays & Hashing
+Topic: Heaps
 
-Problems: 1, 20, 217
+Problems: 1046, 1642, 215
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

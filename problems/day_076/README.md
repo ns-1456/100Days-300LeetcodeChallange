@@ -1,8 +1,8 @@
-# Day 001
+# Day 076
 
-Topic: Arrays & Hashing
+Topic: Linked List
 
-Problems: 1, 20, 217
+Problems: 21, 141, 206
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

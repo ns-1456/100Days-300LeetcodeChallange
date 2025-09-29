@@ -1,8 +1,8 @@
-# Day 001
+# Day 019
 
-Topic: Arrays & Hashing
+Topic: DP 1D II
 
-Problems: 1, 20, 217
+Problems: 152, 300, 53
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

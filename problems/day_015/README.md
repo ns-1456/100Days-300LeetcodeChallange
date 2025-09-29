@@ -1,8 +1,8 @@
-# Day 001
+# Day 015
 
-Topic: Arrays & Hashing
+Topic: Heaps/PQ
 
-Problems: 1, 20, 217
+Problems: 215, 973, 347
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

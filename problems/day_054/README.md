@@ -1,8 +1,8 @@
-# Day 001
+# Day 054
 
-Topic: Arrays & Hashing
+Topic: Stack
 
-Problems: 1, 20, 217
+Problems: 84, 316, 32
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

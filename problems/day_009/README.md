@@ -1,8 +1,8 @@
-# Day 001
+# Day 009
 
-Topic: Arrays & Hashing
+Topic: Graphs BFS
 
-Problems: 1, 20, 217
+Problems: 200, 994, 1926
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

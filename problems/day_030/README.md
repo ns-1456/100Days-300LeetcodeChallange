@@ -1,8 +1,8 @@
-# Day 001
+# Day 030
 
-Topic: Arrays & Hashing
+Topic: Misc Review
 
-Problems: 1, 20, 217
+Problems: 1, 2, 3
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

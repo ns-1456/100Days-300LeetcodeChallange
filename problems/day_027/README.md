@@ -1,8 +1,8 @@
-# Day 001
+# Day 027
 
-Topic: Arrays & Hashing
+Topic: Math & Bit II
 
-Problems: 1, 20, 217
+Problems: 371, 268, 231
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

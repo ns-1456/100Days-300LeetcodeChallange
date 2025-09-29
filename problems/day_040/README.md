@@ -1,8 +1,8 @@
-# Day 001
+# Day 040
 
-Topic: Arrays & Hashing
+Topic: Topo/Union-Find
 
-Problems: 1, 20, 217
+Problems: 684, 261, 305
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

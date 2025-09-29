@@ -1,8 +1,8 @@
-# Day 001
+# Day 022
 
-Topic: Arrays & Hashing
+Topic: DP Partitions
 
-Problems: 1, 20, 217
+Problems: 416, 494, 518
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.

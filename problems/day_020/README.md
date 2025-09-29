@@ -1,8 +1,8 @@
-# Day 001
+# Day 020
 
-Topic: Arrays & Hashing
+Topic: DP 2D Paths
 
-Problems: 1, 20, 217
+Problems: 62, 63, 64
 
 - Notes follow template in docs/TEMPLATES.md
 - Create subfolders per problem as you solve.
