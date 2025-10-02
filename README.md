@@ -8,11 +8,13 @@ Focus: NeetCode roadmap (Fundamentals → Advanced).
 - Source: NeetCode categories + LeetCode links.
 
 ## Progress
-![solved](https://img.shields.io/badge/solved-0%2F300-blue) ![streak](https://img.shields.io/badge/streak-0_days-green)
+![solved](https://img.shields.io/badge/solved-9%2F300-blue) ![streak](https://img.shields.io/badge/streak-3_days-green)
 
 | Day | Problems | Topics | Notes |
 | --- | --- | --- | --- |
-| 001 | 1, 20, 217 | Arrays, Stack | [Notes](problems/day_001/README.md) |
+| 001 | 1, 20, 217 | Arrays, Stack | [![status](https://img.shields.io/badge/status-✅%20Complete-success.svg)](problems/day_001/README.md) |
+| 002 | 121, 125, 3 | Two Pointers, String | [![status](https://img.shields.io/badge/status-✅%20Complete-success.svg)](problems/day_002/README.md) |
+| 003 | 155, 739, 853 | Stack, Monotonic Stack | [![status](https://img.shields.io/badge/status-✅%20Complete-success.svg)](problems/day_003/README.md) |
 
 ## Structure
 - problems/day_XXX/leetcode_<id>_<kebab-title>/
