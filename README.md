@@ -8,7 +8,7 @@ Focus: NeetCode roadmap (Fundamentals → Advanced).
 - Source: NeetCode categories + LeetCode links.
 
 ## Progress
-![solved](https://img.shields.io/badge/solved-12%2F300-blue) ![streak](https://img.shields.io/badge/streak-6_days-green)
+![solved](https://img.shields.io/badge/solved-18%2F300-blue) ![streak](https://img.shields.io/badge/streak-7_days-green)
 
 | Day | Problems | Topics | Notes |
 | --- | --- | --- | --- |
@@ -18,7 +18,7 @@ Focus: NeetCode roadmap (Fundamentals → Advanced).
 | 004 | 704, 74, 34 | Binary Search | [![status](https://img.shields.io/badge/status-✅%20Complete-success.svg)](problems/day_004/README.md) |
 | 005 | 206 | Linked List | [![status](https://img.shields.io/badge/status-⏸️%20Skipped-yellow.svg)](problems/day_005/README.md) |
 | 006 | 104, 100, 144 | Trees I | [![status](https://img.shields.io/badge/status-✅%20Complete-success.svg)](problems/day_006/README.md) |
-| 007 | 145, 94, 110 | Trees II | [![status](https://img.shields.io/badge/status-📝%20Added-blue.svg)](problems/day_007/README.md) |
+| 007 | 145, 94, 110 | Trees II | [![status](https://img.shields.io/badge/status-✅%20Complete-success.svg)](problems/day_007/README.md) |
 
 ## Structure
 - problems/day_XXX/leetcode_<id>_<kebab-title>/
