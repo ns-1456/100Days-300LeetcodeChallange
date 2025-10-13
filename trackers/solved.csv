@@ -1,1 +1,4 @@
 id,title,topic,difficulty,day,status,lang,approach
+704,Binary Search,Binary Search,Easy,004,Solved,Java,Iterative binary search on sorted array
+74,Search a 2D Matrix,Binary Search,Medium,004,Solved,Java,Treat matrix as 1D and binary search
+34,Find First and Last Position of Element in Sorted Array,Binary Search,Medium,004,Solved,Java,Two binary searches for left and right bounds
